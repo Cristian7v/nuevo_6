@@ -1,0 +1,23 @@
+@import url(./header.css);
+@import url(./cards.css);
+@import url(./banner.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box; 
+}
+
+body {
+    background-color: rgb(98, 10, 156);
+    font-family: 'Lato', sans-serif;
+    
+}
+ul{
+    list-style: none;
+}
+
+a{
+    color: unset;
+    text-decoration: none;
+}
